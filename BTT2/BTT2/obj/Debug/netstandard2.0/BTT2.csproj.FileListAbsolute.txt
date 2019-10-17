@@ -1,0 +1,13 @@
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\bin\Debug\netstandard2.0\BTT2.deps.json
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\bin\Debug\netstandard2.0\BTT2.dll
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\bin\Debug\netstandard2.0\BTT2.pdb
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\BTT2.csprojAssemblyReference.cache
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\PageListView.xaml.g.cs
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\BTT2.csproj.CoreCompileInputs.cache
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\BTT2.AssemblyInfoInputs.cache
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\BTT2.AssemblyInfo.cs
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\BTT2.dll
+C:\Users\Quang Truong\source\repos\BTT2\BTT2\BTT2\obj\Debug\netstandard2.0\BTT2.pdb
